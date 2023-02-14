@@ -1,0 +1,2 @@
+#1/bin/bash
+ls -l /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin | grep -c ^d
